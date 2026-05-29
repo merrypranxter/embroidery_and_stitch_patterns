@@ -1,0 +1,122 @@
+[
+  {
+    "name": "Floral Embroidery",
+    "slug": "floral_embroidery",
+    "motifs": "flowers, petals, leaves, berries, buds, pollen, stems",
+    "stitch_strategy": "works with satin, long-and-short, stem, lazy daisy, bullion roses, French knot centers"
+  },
+  {
+    "name": "Botanical Vines",
+    "slug": "botanical_vines",
+    "motifs": "curling stems, leaves, tendrils, repeated sprigs",
+    "stitch_strategy": "stem stitch outlines, chain stitch vines, fishbone leaves"
+  },
+  {
+    "name": "Scrollwork And Arabesque",
+    "slug": "scrollwork_and_arabesque",
+    "motifs": "ornamental curled lines and mirrored flourishes",
+    "stitch_strategy": "couching, stem stitch, satin accents, goldwork variants"
+  },
+  {
+    "name": "Geometric Borders",
+    "slug": "geometric_borders",
+    "motifs": "diamonds, zigzags, chevrons, squares, stepped bands",
+    "stitch_strategy": "counted-thread logic, cross stitch, herringbone, running stitch"
+  },
+  {
+    "name": "Sampler Layouts",
+    "slug": "sampler_layouts",
+    "motifs": "organized blocks of stitches, alphabets, borders, motifs",
+    "stitch_strategy": "excellent for repo demonstration and stitch comparison"
+  },
+  {
+    "name": "Monograms And Lettering",
+    "slug": "monograms_and_lettering",
+    "motifs": "letters formed from satin columns, split stitch outlines, backstitch lines",
+    "stitch_strategy": "needs stroke-width control and readable counters"
+  },
+  {
+    "name": "Animal Motifs",
+    "slug": "animal_motifs",
+    "motifs": "birds, insects, fish, cats, mythic creatures",
+    "stitch_strategy": "long-and-short shading, seed stitch fur, satin details"
+  },
+  {
+    "name": "Celestial Motifs",
+    "slug": "celestial_motifs",
+    "motifs": "stars, moons, suns, comets, constellations",
+    "stitch_strategy": "French knots, metallic couching, running stitch orbits"
+  },
+  {
+    "name": "Sacred Hearts",
+    "slug": "sacred_hearts",
+    "motifs": "heart shapes with rays, flames, flowers, thorns",
+    "stitch_strategy": "satin fills, couching, chain outlines, metallic thread"
+  },
+  {
+    "name": "Medallions And Rosettes",
+    "slug": "medallions_and_rosettes",
+    "motifs": "central circular ornament, radial symmetry, nested borders",
+    "stitch_strategy": "spider web roses, satin petals, couching rings"
+  },
+  {
+    "name": "Paisley Motifs",
+    "slug": "paisley_motifs",
+    "motifs": "teardrop/boteh shapes with internal florals and curls",
+    "stitch_strategy": "chain outlines, satin fills, tiny knots"
+  },
+  {
+    "name": "Folk Birds",
+    "slug": "folk_birds",
+    "motifs": "symmetrical birds, bright florals, simple outlines",
+    "stitch_strategy": "chain, satin, stem, lazy daisy, bold thread color"
+  },
+  {
+    "name": "Mushroom And Fungi Motifs",
+    "slug": "mushroom_and_fungi_motifs",
+    "motifs": "caps, gills, spores, mycelium lines",
+    "stitch_strategy": "satin caps, French knot spores, stem stitch mycelium"
+  },
+  {
+    "name": "Insect And Beetle Motifs",
+    "slug": "insect_and_beetle_motifs",
+    "motifs": "wings, segmented bodies, antennae, legs",
+    "stitch_strategy": "satin wings, couching antennae, knots for eyes"
+  },
+  {
+    "name": "Ocean Motifs",
+    "slug": "ocean_motifs",
+    "motifs": "shells, waves, coral, fish, seaweed",
+    "stitch_strategy": "chain waves, seed stitch foam, satin shells"
+  },
+  {
+    "name": "Patch And Badge Embroidery",
+    "slug": "patch_and_badge_embroidery",
+    "motifs": "bold fill areas, outlines, text, insignia",
+    "stitch_strategy": "satin columns, fill stitch, edge merrow simulation"
+  },
+  {
+    "name": "Allover Fill Patterns",
+    "slug": "allover_fill_patterns",
+    "motifs": "small repeated motifs across fabric",
+    "stitch_strategy": "seed, running, cross, small sprigs, kantha-like running fields"
+  },
+  {
+    "name": "Negative Space Embroidery",
+    "slug": "negative_space_embroidery",
+    "motifs": "design emerges from unstitched ground",
+    "stitch_strategy": "outline density, fill around motif, cutwork logic"
+  },
+  {
+    "name": "Glyph And Symbol Fields",
+    "slug": "glyph_and_symbol_fields",
+    "motifs": "repeated signs, sigils, marks, faux-language",
+    "stitch_strategy": "backstitch, couching, counted grid, knot punctuation"
+  },
+  {
+    "name": "Psychedelic Thread Fields",
+    "slug": "psychedelic_thread_fields",
+    "motifs": "radiating loops, color gradients, vibrating motifs",
+    "stitch_strategy": "chain spirals, variegated thread, dense knot stars"
+  }
+]

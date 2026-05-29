@@ -1,0 +1,82 @@
+[
+  {
+    "name": "Sashiko",
+    "slug": "sashiko",
+    "note": "Japanese running-stitch reinforcement and decorative pattern traditions, often using white stitches on indigo cloth with geometric repeats."
+  },
+  {
+    "name": "Boro",
+    "slug": "boro",
+    "note": "Japanese mending and patchwork traditions associated with layered cloth repair, visible running stitch, reuse, and time-worn surface history."
+  },
+  {
+    "name": "Kantha",
+    "slug": "kantha",
+    "note": "South Asian running-stitch quilting and embroidery traditions where dense stitched lines create texture, narrative figures, and rippling fields."
+  },
+  {
+    "name": "Chikankari",
+    "slug": "chikankari",
+    "note": "Fine whitework embroidery tradition associated with Lucknow, using delicate shadow, floral, and surface stitches on lightweight cloth."
+  },
+  {
+    "name": "Phulkari",
+    "slug": "phulkari",
+    "note": "Punjabi embroidery tradition known for bright silk floss, geometric floral fields, and dense surface coverage on cloth."
+  },
+  {
+    "name": "Suzani",
+    "slug": "suzani",
+    "note": "Central Asian embroidered textiles featuring bold medallions, vines, flowers, suns, and large-scale domestic/ceremonial compositions."
+  },
+  {
+    "name": "Palestinian Tatreez",
+    "slug": "palestinian_tatreez",
+    "note": "Counted cross-stitch tradition using regional motifs, geometric patterns, and garment-based storytelling. Treat as living cultural heritage, not generic decoration."
+  },
+  {
+    "name": "Mexican Otomi Inspired Motif Logic",
+    "slug": "mexican_otomi_inspired_motif_logic",
+    "note": "Otomi embroidery is associated with vibrant animals, plants, and symmetrical folk compositions. Use respectfully; do not claim authenticity without source/context."
+  },
+  {
+    "name": "Ukrainian Vyshyvanka",
+    "slug": "ukrainian_vyshyvanka",
+    "note": "Ukrainian embroidered garment traditions with regional geometric, floral, and symbolic motifs, often worked in counted or surface stitches."
+  },
+  {
+    "name": "Hungarian Kalocsa",
+    "slug": "hungarian_kalocsa",
+    "note": "Hungarian floral embroidery tradition known for colorful flowers and bold satin-style floral ornament."
+  },
+  {
+    "name": "Norwegian Hardanger",
+    "slug": "norwegian_hardanger",
+    "note": "Norwegian counted whitework with satin blocks, cutwork openings, woven bars, and precise geometric structure."
+  },
+  {
+    "name": "Brazilian Dimensional Embroidery",
+    "slug": "brazilian_dimensional_embroidery",
+    "note": "Raised floral embroidery using rayon threads and dimensional stitches like bullion, cast-on, drizzle, and woven forms."
+  },
+  {
+    "name": "Jacobean Crewel",
+    "slug": "jacobean_crewel",
+    "note": "Historic English crewelwork style with scrolling vines, fantasy flowers, animals, and wool thread."
+  },
+  {
+    "name": "Mountmellick Whitework",
+    "slug": "mountmellick_whitework",
+    "note": "Irish whitework tradition using matte cotton thread, raised stitches, and botanical motifs on cotton sateen."
+  },
+  {
+    "name": "Aari Embroidery",
+    "slug": "aari_embroidery",
+    "note": "Hook-based embroidery used in South Asian decorative work and couture embellishment, related to tambour-style chain creation."
+  },
+  {
+    "name": "Zardozi",
+    "slug": "zardozi",
+    "note": "Metal-thread and embellishment embroidery tradition associated with South Asian luxury textiles, using metallic threads, beads, sequins, and couching."
+  }
+]

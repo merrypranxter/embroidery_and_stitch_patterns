@@ -1,0 +1,5 @@
+- `floral satin-stitch embroidery, raised thread, cloth grain, visible needle path`
+- `blackwork geometric fill pattern on linen, counted grid, monochrome thread`
+- `sashiko-style running stitch geometry, indigo cloth, white dashed thread paths`
+- `goldwork couching with metallic thread, raised ceremonial linework`
+- `cross-stitch pixel motif on Aida cloth, visible fabric holes and X-shaped thread cells`
