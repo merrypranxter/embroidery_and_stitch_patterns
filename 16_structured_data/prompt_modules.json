@@ -1,0 +1,49 @@
+{
+  "texture_terms": [
+    "raised thread ridges",
+    "visible needle path",
+    "cloth grain",
+    "thread sheen",
+    "tiny stitch shadows",
+    "handmade tension variation"
+  ],
+  "stitch_terms": [
+    "Running Stitch",
+    "Backstitch",
+    "Stem Stitch",
+    "Split Stitch",
+    "Chain Stitch",
+    "Detached Chain / Lazy Daisy",
+    "Satin Stitch",
+    "Long and Short Stitch",
+    "Cross Stitch",
+    "Half Cross Stitch",
+    "Tent Stitch",
+    "French Knot",
+    "Colonial Knot",
+    "Bullion Knot",
+    "Turkey Work",
+    "Couching",
+    "Laid Work",
+    "Blanket Stitch",
+    "Buttonhole Stitch",
+    "Feather Stitch",
+    "Fly Stitch",
+    "Herringbone Stitch",
+    "Chevron Stitch",
+    "Cretan Stitch",
+    "Fishbone Stitch",
+    "Fern Stitch",
+    "Seed Stitch",
+    "Couching With Trellis",
+    "Spider Web Rose",
+    "Woven Picot"
+  ],
+  "anti_slop": [
+    "not printed",
+    "not painted",
+    "not flat vector",
+    "not generic floral wallpaper",
+    "no impossible microscopic thread"
+  ]
+}

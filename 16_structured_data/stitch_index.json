@@ -1,0 +1,268 @@
+[
+  {
+    "name": "Running Stitch",
+    "slug": "running_stitch",
+    "family": "outline / quilting / sashiko base",
+    "visual_signature": "dashed line, tiny rhythmic gaps, lightweight drawing, marching thread path",
+    "best_uses": "lines, seams, borders, ripples, constellations"
+  },
+  {
+    "name": "Backstitch",
+    "slug": "backstitch",
+    "family": "outline",
+    "visual_signature": "solid-looking line made from overlapping backwards movements, crisp and readable",
+    "best_uses": "lettering, line art, contours, diagrams"
+  },
+  {
+    "name": "Stem Stitch",
+    "slug": "stem_stitch",
+    "family": "outline",
+    "visual_signature": "twisted rope-like line with soft curve handling and organic botanical energy",
+    "best_uses": "stems, vines, curves, script"
+  },
+  {
+    "name": "Split Stitch",
+    "slug": "split_stitch",
+    "family": "outline / fill",
+    "visual_signature": "thread splits through previous stitch, fuzzy continuous line",
+    "best_uses": "soft outlines, medieval-style fills, organic contours"
+  },
+  {
+    "name": "Chain Stitch",
+    "slug": "chain_stitch",
+    "family": "loop",
+    "visual_signature": "interlocking loop chain, decorative rope track",
+    "best_uses": "outlines, spirals, vines, folk motifs"
+  },
+  {
+    "name": "Detached Chain / Lazy Daisy",
+    "slug": "detached_chain_lazy_daisy",
+    "family": "loop / petal",
+    "visual_signature": "single loop anchored with tack stitch, petal-shaped",
+    "best_uses": "flowers, leaves, droplets, feathers"
+  },
+  {
+    "name": "Satin Stitch",
+    "slug": "satin_stitch",
+    "family": "fill",
+    "visual_signature": "smooth parallel stitches packed side by side, glossy directional fill",
+    "best_uses": "petals, leaves, lettering, badges"
+  },
+  {
+    "name": "Long and Short Stitch",
+    "slug": "long_and_short_stitch",
+    "family": "shaded fill",
+    "visual_signature": "staggered stitch lengths blend colors like thread painting",
+    "best_uses": "realistic flowers, animals, gradients"
+  },
+  {
+    "name": "Cross Stitch",
+    "slug": "cross_stitch",
+    "family": "counted grid",
+    "visual_signature": "X-shaped cells on a grid, pixel-like",
+    "best_uses": "samplers, icons, alphabets, game/pixel motifs"
+  },
+  {
+    "name": "Half Cross Stitch",
+    "slug": "half_cross_stitch",
+    "family": "counted grid",
+    "visual_signature": "single diagonal counted stitch, lighter than cross stitch",
+    "best_uses": "shading, needlepoint backgrounds"
+  },
+  {
+    "name": "Tent Stitch",
+    "slug": "tent_stitch",
+    "family": "needlepoint",
+    "visual_signature": "diagonal stitch over canvas intersections",
+    "best_uses": "needlepoint coverage, petit point"
+  },
+  {
+    "name": "French Knot",
+    "slug": "french_knot",
+    "family": "knot",
+    "visual_signature": "tiny raised dot, bead-like and irregular",
+    "best_uses": "pollen, stars, eyes, texture sprinkles"
+  },
+  {
+    "name": "Colonial Knot",
+    "slug": "colonial_knot",
+    "family": "knot",
+    "visual_signature": "figure-eight knot, slightly plumper and stable",
+    "best_uses": "dot textures, flowers, berries"
+  },
+  {
+    "name": "Bullion Knot",
+    "slug": "bullion_knot",
+    "family": "raised knot",
+    "visual_signature": "wrapped coil stitch like little caterpillar or rose petal",
+    "best_uses": "roses, curls, dimensional ridges"
+  },
+  {
+    "name": "Turkey Work",
+    "slug": "turkey_work",
+    "family": "pile",
+    "visual_signature": "looped or cut pile creating fuzzy tufted surface",
+    "best_uses": "fur, moss, hair, plush texture"
+  },
+  {
+    "name": "Couching",
+    "slug": "couching",
+    "family": "laid thread",
+    "visual_signature": "long thread held down by tiny stitches, good for metallics and thick cords",
+    "best_uses": "goldwork lines, curves, lettering"
+  },
+  {
+    "name": "Laid Work",
+    "slug": "laid_work",
+    "family": "fill",
+    "visual_signature": "long parallel threads laid across surface and secured",
+    "best_uses": "large fills, Bayeux-style areas, soft bands"
+  },
+  {
+    "name": "Blanket Stitch",
+    "slug": "blanket_stitch",
+    "family": "edge / loop",
+    "visual_signature": "looped edge with perpendicular legs, protective border",
+    "best_uses": "edges, applique, scallops"
+  },
+  {
+    "name": "Buttonhole Stitch",
+    "slug": "buttonhole_stitch",
+    "family": "edge / loop",
+    "visual_signature": "dense worked loop edge, firmer than blanket stitch",
+    "best_uses": "cutwork edges, eyelets, applique"
+  },
+  {
+    "name": "Feather Stitch",
+    "slug": "feather_stitch",
+    "family": "branching",
+    "visual_signature": "open branching V shapes, airy vine rhythm",
+    "best_uses": "borders, stems, decorative seams"
+  },
+  {
+    "name": "Fly Stitch",
+    "slug": "fly_stitch",
+    "family": "branching",
+    "visual_signature": "V-shaped stitch with tail, bird/leaf form",
+    "best_uses": "leaves, borders, scattered texture"
+  },
+  {
+    "name": "Herringbone Stitch",
+    "slug": "herringbone_stitch",
+    "family": "crossed",
+    "visual_signature": "open crossed diagonals, flexible decorative band",
+    "best_uses": "borders, seams, filling strips"
+  },
+  {
+    "name": "Chevron Stitch",
+    "slug": "chevron_stitch",
+    "family": "crossed",
+    "visual_signature": "regular zigzag crossed stitch",
+    "best_uses": "bands, borders, folk geometry"
+  },
+  {
+    "name": "Cretan Stitch",
+    "slug": "cretan_stitch",
+    "family": "looped / leaf",
+    "visual_signature": "open looped stitch forming ladder or leaf structures",
+    "best_uses": "leaves, borders, botanical lines"
+  },
+  {
+    "name": "Fishbone Stitch",
+    "slug": "fishbone_stitch",
+    "family": "leaf fill",
+    "visual_signature": "angled stitches meet in center vein",
+    "best_uses": "leaves, feathers"
+  },
+  {
+    "name": "Fern Stitch",
+    "slug": "fern_stitch",
+    "family": "branching",
+    "visual_signature": "central line with angled side stitches",
+    "best_uses": "ferns, vines, branches"
+  },
+  {
+    "name": "Seed Stitch",
+    "slug": "seed_stitch",
+    "family": "scatter fill",
+    "visual_signature": "random tiny stitches like grain or confetti",
+    "best_uses": "background texture, shading, grit"
+  },
+  {
+    "name": "Couching With Trellis",
+    "slug": "couching_with_trellis",
+    "family": "laid grid",
+    "visual_signature": "laid threads held at intersections by tacks",
+    "best_uses": "goldwork fills, lattice texture"
+  },
+  {
+    "name": "Spider Web Rose",
+    "slug": "spider_web_rose",
+    "family": "woven raised",
+    "visual_signature": "woven wheel around spokes, rose-like spiral",
+    "best_uses": "roses, circular flowers, dimensional medallions"
+  },
+  {
+    "name": "Woven Picot",
+    "slug": "woven_picot",
+    "family": "raised woven",
+    "visual_signature": "thread woven over pins or anchors to form raised leaf/petal",
+    "best_uses": "3D leaves, stumpwork elements"
+  },
+  {
+    "name": "Palestrina Stitch",
+    "slug": "palestrina_stitch",
+    "family": "knotted line",
+    "visual_signature": "beaded knot line with raised bumps",
+    "best_uses": "decorative outlines, borders"
+  },
+  {
+    "name": "Coral Stitch",
+    "slug": "coral_stitch",
+    "family": "knotted line",
+    "visual_signature": "line with regularly spaced tiny knots",
+    "best_uses": "outlines with bead rhythm"
+  },
+  {
+    "name": "Cable Stitch",
+    "slug": "cable_stitch",
+    "family": "rope line",
+    "visual_signature": "braided rope-like line",
+    "best_uses": "thick outlines, cords"
+  },
+  {
+    "name": "Scroll Stitch",
+    "slug": "scroll_stitch",
+    "family": "curled line",
+    "visual_signature": "looping knotted line with scroll texture",
+    "best_uses": "decorative contours"
+  },
+  {
+    "name": "Rope Stitch",
+    "slug": "rope_stitch",
+    "family": "outline",
+    "visual_signature": "twisted cord effect",
+    "best_uses": "borders, lettering, nautical motifs"
+  },
+  {
+    "name": "Whipped Backstitch",
+    "slug": "whipped_backstitch",
+    "family": "outline",
+    "visual_signature": "backstitch wrapped with another thread, smooth cord line",
+    "best_uses": "clean curves, color accents"
+  },
+  {
+    "name": "Laced Running Stitch",
+    "slug": "laced_running_stitch",
+    "family": "decorative line",
+    "visual_signature": "running stitch laced with contrasting thread",
+    "best_uses": "borders, folk bands"
+  },
+  {
+    "name": "Open Cretan Stitch",
+    "slug": "open_cretan_stitch",
+    "family": "open decorative",
+    "visual_signature": "wide open looped ladder-like stitch",
+    "best_uses": "leafy borders, airy grids"
+  }
+]

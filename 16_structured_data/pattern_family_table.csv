@@ -1,0 +1,21 @@
+name,motifs,stitch_strategy
+Floral Embroidery,"flowers, petals, leaves, berries, buds, pollen, stems","works with satin, long-and-short, stem, lazy daisy, bullion roses, French knot centers"
+Botanical Vines,"curling stems, leaves, tendrils, repeated sprigs","stem stitch outlines, chain stitch vines, fishbone leaves"
+Scrollwork And Arabesque,ornamental curled lines and mirrored flourishes,"couching, stem stitch, satin accents, goldwork variants"
+Geometric Borders,"diamonds, zigzags, chevrons, squares, stepped bands","counted-thread logic, cross stitch, herringbone, running stitch"
+Sampler Layouts,"organized blocks of stitches, alphabets, borders, motifs",excellent for repo demonstration and stitch comparison
+Monograms And Lettering,"letters formed from satin columns, split stitch outlines, backstitch lines",needs stroke-width control and readable counters
+Animal Motifs,"birds, insects, fish, cats, mythic creatures","long-and-short shading, seed stitch fur, satin details"
+Celestial Motifs,"stars, moons, suns, comets, constellations","French knots, metallic couching, running stitch orbits"
+Sacred Hearts,"heart shapes with rays, flames, flowers, thorns","satin fills, couching, chain outlines, metallic thread"
+Medallions And Rosettes,"central circular ornament, radial symmetry, nested borders","spider web roses, satin petals, couching rings"
+Paisley Motifs,teardrop/boteh shapes with internal florals and curls,"chain outlines, satin fills, tiny knots"
+Folk Birds,"symmetrical birds, bright florals, simple outlines","chain, satin, stem, lazy daisy, bold thread color"
+Mushroom And Fungi Motifs,"caps, gills, spores, mycelium lines","satin caps, French knot spores, stem stitch mycelium"
+Insect And Beetle Motifs,"wings, segmented bodies, antennae, legs","satin wings, couching antennae, knots for eyes"
+Ocean Motifs,"shells, waves, coral, fish, seaweed","chain waves, seed stitch foam, satin shells"
+Patch And Badge Embroidery,"bold fill areas, outlines, text, insignia","satin columns, fill stitch, edge merrow simulation"
+Allover Fill Patterns,small repeated motifs across fabric,"seed, running, cross, small sprigs, kantha-like running fields"
+Negative Space Embroidery,design emerges from unstitched ground,"outline density, fill around motif, cutwork logic"
+Glyph And Symbol Fields,"repeated signs, sigils, marks, faux-language","backstitch, couching, counted grid, knot punctuation"
+Psychedelic Thread Fields,"radiating loops, color gradients, vibrating motifs","chain spirals, variegated thread, dense knot stars"

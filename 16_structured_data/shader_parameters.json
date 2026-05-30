@@ -1,0 +1,27 @@
+{
+  "stitch_length": {
+    "min": 2,
+    "max": 60,
+    "note": "surface length of each visible stitch"
+  },
+  "thread_width": {
+    "min": 0.5,
+    "max": 12,
+    "note": "stroke/capsule radius"
+  },
+  "stitch_jitter": {
+    "min": 0,
+    "max": 1,
+    "note": "handmade irregularity"
+  },
+  "thread_height": {
+    "min": 0,
+    "max": 1,
+    "note": "normal/displacement intensity"
+  },
+  "fabric_grain": {
+    "min": 0,
+    "max": 1,
+    "note": "background cloth noise"
+  }
+}
